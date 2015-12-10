@@ -1,2 +1,2 @@
-# CroProtics
+# CroPlotics
 CP Robotics Team
